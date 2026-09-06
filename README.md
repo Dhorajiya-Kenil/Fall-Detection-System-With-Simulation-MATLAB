@@ -39,4 +39,22 @@ Emergency messaging relies on the Twilio API. Ensure active GPS access on your m
 
 1. **Clone the Repository**
    ```bash
-   git clone [https://github.com/Dhorajiya-Kenil/Fall-Detection-System-With-Simulation-MATLAB.git](https://github.com/Dhorajiya-Kenil/Fall-Detection-System-With-Simulation-MATLAB.git)
+   git clone [https://github.com/Dhorajiya-Kenil/Fall-Detection-System-With-Simulation-MATLAB/tree/main])
+
+## Limitations
+
+* The system depends on accurate sensor data from the mobile device, and poor sensor quality or lack of GPS signal might affect its performance.
+* The fall detection logic is based on simple thresholding; more advanced algorithms can be implemented for improved accuracy.
+
+---
+
+## License & Contribution
+
+* **License:** This project is licensed under the MIT License. See the `LICENSE` file for more details.
+* **Contribution:** Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
+
+---
+
+## Contact
+
+For any inquiries, please reach out to: **dhorajiyakenil@gmail.com**
