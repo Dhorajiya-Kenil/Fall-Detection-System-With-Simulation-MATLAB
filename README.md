@@ -57,7 +57,7 @@ For detailed information on system architecture, V-Model XT methodology, UML dia
 
 ## License & Contribution
 
-* **License:** This project is licensed under the MIT License. See the `LICENSE` file for more details.
+* **License:** This project is licensed under the MIT License. See the [Project Report](https://github.com/Dhorajiya-Kenil/Fall-Detection-System-With-Simulation-MATLAB/blob/main/LICENSE). file for more details.
 * **Contribution:** Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
 ---
