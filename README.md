@@ -48,6 +48,12 @@ Emergency messaging relies on the Twilio API. Ensure active GPS access on your m
 
 ---
 
+## Documentation
+
+For detailed information on system architecture, V-Model XT methodology, UML diagrams, and STAMP analysis, check out the [Project Report](Fall-Detection-System.pdf).
+
+---
+
 ## License & Contribution
 
 * **License:** This project is licensed under the MIT License. See the `LICENSE` file for more details.
